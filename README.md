@@ -1,1 +1,1 @@
-# Propuse: personal blog website
+# Purpose: personal blog website
