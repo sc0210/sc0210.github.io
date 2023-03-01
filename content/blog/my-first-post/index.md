@@ -1,5 +1,5 @@
 ---
-title: "The very first post was born!"
+title: "My-First-post!"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -13,7 +13,7 @@ hidemeta: false
 comments: true
 description: "Make efforts count."
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
