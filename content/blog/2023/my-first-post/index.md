@@ -1,6 +1,6 @@
 ---
 title: "My-First-post!"
-date: 2022-2-28T11:30:03+00:00
+date: 2023-02-28T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["diary", "mood", "life"]
@@ -35,7 +35,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
-![image alt](images/test.jpg)
+![image alt](images/a-person-is-thinking-future)
 > *" It's never too late to make a new start! "* 
 
 ## The story start from here...
