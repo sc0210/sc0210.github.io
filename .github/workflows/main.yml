@@ -1,4 +1,4 @@
-name: Guthub Pages
+name: Guthub-Pages
 
 on:
   push:
