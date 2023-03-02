@@ -8,8 +8,6 @@ on:
 jobs:
   deploy: # Name of job
     runs-on: ubuntu-22.04
-    permissions:
-      contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}  
     
@@ -27,7 +25,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --cleanDestinationDir
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
