@@ -35,7 +35,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
-![image alt](images/a-person-is-thinking-future)
+![image alt](images/a-person-is-thinking-future.jpeg)
 > *" It's never too late to make a new start! "* 
 
 ## The story start from here...
