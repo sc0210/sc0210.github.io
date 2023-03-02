@@ -3,10 +3,16 @@ name: github-pages
 on:
   push:
     branches: ["master"] # Set a branch to deploy
+  pull_request:
 
 jobs:
   deploy: # Name of job
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}  
+    
     steps:
       - name: Git checkout
         uses: actions/checkout@v3 
@@ -25,7 +31,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: master
-          force_orphan: true
+          publish_dir: ./public
