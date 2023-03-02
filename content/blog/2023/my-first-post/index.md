@@ -39,9 +39,9 @@ editPost:
 > *" It's never too late to make a new start! "* 
 
 ## The story start from here...
-I'd planned to start my personal blog-website, where I can share my thoughts and record interesting side projects. After some sort of research and comparing, I decide to choose **[Hugo](https://gohugo.io/)** for the framework of my personal blog-website and currnetly deploy on **[github pages](https://pages.github.com/)**. I am looking forward for proper custom domain in the future.
+I had planned to start my personal blog-website where I could share my thoughts and record interesting side projects. After doing some research and comparisons, I decided to use **[Hugo](https://gohugo.io/)** as the framework  for my personal blog-website, and I am currently deploying it on **[github pages](https://pages.github.com/)**. I am looking forward for proper custom domain in the future.
 
-Today is in a good mood, I lunach my blog-website project!! This is my-first-post, which tells about the very beginning of this website. Although the process was quite hard, I finally make it come true. In the following post I will gonna share **how I made** and **you can make your own custom website**.
+Today, I am in a good mood because I launched my blog-website project! This is my first post, which talks about the very beginning of this website. Although the process was quite difficult, I finally made it come true. In the following post, I will share **how I create** and **you can make your own custom website**.
 
 Including the skills or techniques list in below:
 - **[Hugo installation](https://gohugo.io/)**
