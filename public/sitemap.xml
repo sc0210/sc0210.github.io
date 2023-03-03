@@ -2,20 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sc0210.github.io/blog/</loc>
+    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
+  </url><url>
+    <loc>https://sc0210.github.io/tags/</loc>
+    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
+  </url><url>
+    <loc>https://sc0210.github.io/tags/web/</loc>
+    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
+  </url><url>
+    <loc>https://sc0210.github.io/blog/2023/photography-club/</loc>
+    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
+  </url><url>
+    <loc>https://sc0210.github.io/blog/2023/whats-behind-website/</loc>
+    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
+  </url><url>
+    <loc>https://sc0210.github.io/</loc>
+    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
+  </url><url>
     <loc>https://sc0210.github.io/about/</loc>
     <lastmod>2023-03-02T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://sc0210.github.io/tags/aboutme/</loc>
     <lastmod>2023-03-02T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://sc0210.github.io/tags/</loc>
-    <lastmod>2023-03-02T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://sc0210.github.io/</loc>
-    <lastmod>2023-03-02T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://sc0210.github.io/blog/</loc>
-    <lastmod>2023-02-28T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://sc0210.github.io/tags/diary/</loc>
     <lastmod>2023-02-28T11:30:03+00:00</lastmod>

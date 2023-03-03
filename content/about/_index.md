@@ -42,8 +42,8 @@ I find joy in creating things, especially when it comes to building useful appli
 I started dedicating my free time to learning more about computer science fundamentals to better understand these technologies. Now, I am excited to announce that I will be starting my computer science master degree program in the upcoming fall semester of 2023.
 
 ## Educaiton
-- **[Bachelor of Science in Biomedical engineering](https://sbme.tmu.edu.tw/index.php)** (2019-2023)
-{{< figure src="diploma.jpg" width=400 >}}
+- **[Bachelor of Science in BioMed engineering](https://sbme.tmu.edu.tw/index.php)** (2019-2023)
+{{< figure src="./diploma.jpg" width=400 >}}
 
 ## Skills
 - Website: HTML/CSS/JS
