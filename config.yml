@@ -58,18 +58,21 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    enabled: true # needs to be explicitly set
+    title: Sam Chen
+    subtitle: "Self-taught software engineering
+      current studied in CS master program in TW"
+    imageUrl: "/portrait.jpg"
+    imageWidth: 300
+    imageHeight: 300
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
+      - name: About
+        url: about
+      - name: Blog
+        url: /blog/
       - name: Tags
-        url: tags
+        url: /tags/
 
   # home-info mode
   homeInfoParams:
@@ -100,7 +103,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://sc0210.github.io/blog"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
