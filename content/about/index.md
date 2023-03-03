@@ -31,16 +31,12 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://https://sc0210.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
 # Info
-- Name: **Chen Yu-Cheng**
-- Job occupaction: Software engineering
-#### Not knowing what to do before 
-- plan to choose what you really interested in, take action and start to make it come true. Every failure experience made up of me.
 
 # Academic
 
