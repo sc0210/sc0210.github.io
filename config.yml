@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-4GJGE9E4N5
 
 minify:
   disableXML: true
@@ -30,7 +30,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -60,11 +60,10 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Sam Chen
-    subtitle: "Self-taught software engineering
-      current studied in CS master program in TW"
+    subtitle: "Self-taught software engineering, majored in CS master program in TW"
     imageUrl: "/portrait.jpg"
-    imageWidth: 300
-    imageHeight: 300
+    imageWidth: 250
+    imageHeight: 250
     imageTitle: my image
     buttons:
       - name: About
@@ -141,3 +140,9 @@ markup:
     guessSyntax: true
     lineNos: true
     style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
