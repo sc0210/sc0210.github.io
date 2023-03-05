@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sc0210.github.io/blog/2023/photography-club/</loc>
+    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
+  </url><url>
     <loc>https://sc0210.github.io/blog/</loc>
+    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
+  </url><url>
+    <loc>https://sc0210.github.io/project/</loc>
     <lastmod>2023-03-03T13:55:47+08:00</lastmod>
   </url><url>
     <loc>https://sc0210.github.io/tags/</loc>
@@ -11,10 +17,7 @@
     <loc>https://sc0210.github.io/tags/web/</loc>
     <lastmod>2023-03-03T13:55:47+08:00</lastmod>
   </url><url>
-    <loc>https://sc0210.github.io/blog/2023/photography-club/</loc>
-    <lastmod>2023-03-03T13:55:47+08:00</lastmod>
-  </url><url>
-    <loc>https://sc0210.github.io/blog/2023/whats-behind-website/</loc>
+    <loc>https://sc0210.github.io/project/whats-behind-website/</loc>
     <lastmod>2023-03-03T13:55:47+08:00</lastmod>
   </url><url>
     <loc>https://sc0210.github.io/</loc>
