@@ -40,6 +40,8 @@ editPost:
 <!-- ![image alt](images/a-person-is-thinking-future.jpeg)
 > *" It's never too late to make a new start! "*  -->
 
+----
+
 ## The story start from here...
 I had planned to start my personal blog-website where I could share my thoughts and record interesting side projects. After doing some research and comparisons, I decided to use **[Hugo](https://gohugo.io/)** as the framework  for my personal blog-website, and I am currently deploying it on **[github pages](https://pages.github.com/)**. I am looking forward for proper custom domain in the future.
 
@@ -50,6 +52,8 @@ Including the skills or techniques list in below:
 - **[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)**
 - **[Github action](https://github.com/features/actions)**
 - **[Git version control](https://git-scm.com/)**
+
+----
 
 ## Future plan for this blog 
 

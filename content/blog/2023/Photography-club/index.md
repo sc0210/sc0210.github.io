@@ -35,29 +35,31 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
-{{< figure src="./images/ranked-one-photos.jpeg" width="500" title="🎉入選108北醫楓林文學獎攝影組首獎" caption="作品名稱：《關於那些熱血回憶》Those passionate memories, 拍攝者：陳昱丞 SamChen" link="http://tmubt.azurewebsites.net/archives/7470" >}} 
+{{< figure src="./images/ranked-one-photos.jpeg" title="入選108北醫楓林文學獎攝影組首獎" caption="作品名稱：《關於那些熱血回憶》Those passionate memories, 拍攝者：陳昱丞 SamChen" link="http://tmubt.azurewebsites.net/archives/7470" >}} 
 
-
+----
 ## The story begin here
 
 
 **Before college**, I wasn't familiar with photography. I had no idea how to take a nice photo with a professional camera, nor did I understand the potential behind the industry.
 
-To tell the story, I need to go back to when I was younger. My dad used to give us a basic camera whenever we went on a trip. At that time, all I knew was how to press the shutter button. Furthermore, all the photos we took were either posted on social media or shared with others, just like nowadays.
+To tell the story, I need to go back to when I was younger. My dad used to give us a basic camera whenever we went on a trip. At that time, all I knew was how to press the shutter button. Furthermore, all the photos we took were neither posted on social media nor shared with others, just like nowadays.
 
 When I began studying at university, I joined various school clubs, including the **photography club**, videomaking club. That's where I started my journey towards becoming a photographer. My senior sister and brother eventually selected me to be a leader in the club.
 
 During my free time, I enjoy traveling with friends and experimenting with different picture compositions, color grading, and photography topics. Over time, I developed a deep love for photography and realized the profound impact it could have on my life. I became hooked and eagerly shared my thoughts and ideas about photography with my fellow club members and classmates every chance I got.
 
-> ***"It is more blessed to give than to receive" - Acts 20:35***
-
+----
 
 ## Share to more people
+{{< figure src="./images/teach-in-club.jpeg" title="Aerophotography department lesson" caption="Photography club member" link="http://tmubt.azurewebsites.net/archives/7470" >}} 
+
+> ***"It is more blessed to give than to receive" - Acts 20:35***
 
 Honestly, speaking in front of large crowds used to frighten me. I knew that I lacked the necessary qualifications and experience to share valuable information with others. However, I saw every opportunity as a chance to train myself before entering society. That's why I started giving lectures in college, particularly in the club. Although it was challenging at first, it allowed me to gain confidence and overcome my fears.
 
-{{< figure src="./images/youtube-video.jpeg" title="It's never too late to make a new start!" caption="Stay close to anything that makes you glad you are alive. -Hafez">}}
+----
 
-## Become slashie 
+## Slashie?
 
 {{< youtube id="3SKUn1KeoCI" title="A New Hugo Site in Under Two Minutes" >}}
