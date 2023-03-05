@@ -35,7 +35,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
-{{< figure src="./images/ranked-one-photos.jpeg" title="入選108北醫楓林文學獎攝影組首獎" caption="作品名稱：《關於那些熱血回憶》Those passionate memories, 拍攝者：陳昱丞 SamChen" link="http://tmubt.azurewebsites.net/archives/7470" >}} 
+{{< figure src="./images/ranked-one-photos.jpeg" title="🎉入選108北醫楓林文學獎攝影組首獎🎉" caption="作品名稱：《關於那些熱血回憶》Those passionate memories, 拍攝者：陳昱丞 SamChen" link="http://tmubt.azurewebsites.net/archives/7470" >}} 
 
 ----
 ## The story begin here
