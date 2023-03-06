@@ -140,7 +140,7 @@ textarea:-webkit-autofill {
 }
 img {
   display: block;
-  max-width: 90%;
+  max-width: 100%;
 }
 .not-found {
   position: absolute;

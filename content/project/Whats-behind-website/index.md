@@ -87,6 +87,7 @@ $ git submodule update --init --recursive # needed when you reclone your repo (s
 # Update themes
 $ git submodule update --remote --merge
 ```
+
 ----
 
 ## Online resourse
