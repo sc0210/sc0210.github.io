@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Make your own unique profilo website today"
+description: "Step 1: Installation"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -35,29 +35,60 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
-<!-- ![image alt](images/a-person-is-thinking-future.jpeg)
-> *" It's never too late to make a new start! "*  -->
+## 🔥Blog website (Demo)
 
-## Brief about websiste
+{{< figure src="./images/website-profilo-page.jpg" align=center title="Profilo-page of my personal website" caption="Check out by clicking on the image!!☝🏻"  link="https://sc0210.github.io/" >}} 
 
-> A website is a collection of web pages that are linked together and accessed via the internet using a web browser. It can contain text, images, videos, and other multimedia content. Websites can serve a variety of purposes, including **sharing information, selling products or services, providing entertainment, or facilitating communication.**
+{{< figure src="./images/website-blog-page.jpg" align=center title="Blog-page of my personal website" caption="Check out by clicking on the image!!☝🏻" link="https://sc0210.github.io/blog" >}} 
 
->They can be [static]() or [dynamic](), with static sites having fixed content and dynamic sites being able to display content that changes based on user interactions. Websites are created using various programming languages, including [HTML](), [CSS](), and [JavaScript](), and can be **hosted on servers or accessed via cloud-based services.**
+----
 
-## Websiste components
-<!-- ![image alt](images/a-person-is-thinking-future.jpeg)
-> *"interaction between frontend & backend "*  -->
+## Mindset for self-taught
 
-A website can generally be divided into two main components: the [frontend]() and the [backend](). 
+> It might get tough in the process, make sure you...
 
-### Frontend
-- The frontend is responsible for directly interacting with users and presenting information in a user-friendly way. This typically includes designing the user interface, developing the user experience, and implementing the visual elements of the site.
-    - Programming languages: [HTML](), [CSS](), and [JavaScript]()
-    - Framework: [React](), [Angular](), and [Vue](),.etc
+Before diving into anything new, it's both wise and helpful to have a blueprint or plan in mind. Whenever I begin to learn something new or start a side project, I make sure to create a clear path to success by following a few simple steps. These steps include:
 
-### Backend
-- Meanwhile, the backend focuses on handling the data flow between the website and external sources, such as fetching weather data from a weather API, integrating Google Maps, or connecting to a database. 
-    - Programming languages: [Python](), [Go](), and [Java](),.etc
-    - Framework: [Flask](), [Laravel](), [ASP.NET](), and [Rails](),.etc
+- **Goal**: **What** you want to achieve or problem to solve.
+- **Reason**: **Why** you set this for your goal.
+- **Methods/Tools**: **What** tools might I need to get there. 
 
-By separating these two components, web developers can create efficient and scalable websites that are easy to maintain and update.
+Since it's normal to get stuck in the work process, it's easy to become frustrated and lose sight of our goals. However, **it's important to keep this in mind and stay focused on what and why we're building.** 
+
+>By reminding ourselves of our initial goals and reasons for embarking on the project, we can maintain our **motivation** and remain dedicated to achieving success.
+
+----
+
+## Installation 
+> Installation might varies from the operaiton system, check out official installation steps on HUGO website (https://gohugo.io/installation/)
+
+1. [Git (version control)](https://git-scm.com/)
+```
+# Via homebrew (package manger)
+$ brew install git
+```
+
+2. [Go (Backend development)](https://go.dev/doc/install)
+
+3. [Hugo (Backend framework built on Go)](https://gohugo.io/)
+```
+# Via homebrew (package manger)
+$ brew install hugo
+```
+4. [*Optional: VScode (editior)*](https://code.visualstudio.com/download)
+
+5. [*Optional: Hugo-theme -> PaperMod*](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/)
+
+```
+# Self-recommended method (submodule)
+$ git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+$ git submodule update --init --recursive # needed when you reclone your repo (submodules may not get cloned automatically)
+
+# Update themes
+$ git submodule update --remote --merge
+```
+----
+
+## Online resourse
+- [Hugo official website](https://gohugo.io/)
+- [Hugo-papermod website](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/)

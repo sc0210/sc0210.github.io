@@ -52,7 +52,8 @@ During my free time, I enjoy traveling with friends and experimenting with diffe
 ----
 
 ## Share to more people
-{{< figure src="./images/teach-in-club.jpeg" title="Aerophotography department lesson" caption="Photography club member" link="http://tmubt.azurewebsites.net/archives/7470" >}} 
+
+{{< figure src="./images/_index.jpeg" align=center title="Aerophotography department lesson" caption="Photography club member" >}} 
 
 > ***"It is more blessed to give than to receive" - Acts 20:35***
 
